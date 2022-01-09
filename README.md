@@ -23,9 +23,6 @@ Screenshot from IntelliJ with important marks
 Screenshot of the Pokemon Game after you run Ex4 in case 5
 ![b](https://i.imgur.com/742ZRYa.png)
 
-## UML
-
-
 
 ## Case's 0-15 Performance Results
 Case|	Grade|Moves
