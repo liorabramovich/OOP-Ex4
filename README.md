@@ -1,4 +1,4 @@
-# README - OOP Ex4
+# README - OOP Ex4 - Pokemon Game
 
 **Author: Lior Abramovich**
 
