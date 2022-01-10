@@ -7,6 +7,10 @@
 ## [Short Clip](https://www.youtube.com/watch?v=2zmvORdYFlE) - [Click Here](https://www.youtube.com/watch?v=2zmvORdYFlE)
 ![a](https://media.giphy.com/media/kGmwAs8lij54jEx4GJ/giphy.gif)
 
+In this project we were required to implement a pokemon game using our previous task which was implementing directed weighted graph, graphic representation of the graph as well as various applicable algorithms.
+
+The game is about agents catching as many pokemons as possible, the agents are moving from node to node on the graph's edges, while the pokemons are spawning on edges in between nodes.
+
 ## How To Run
 
 In order to install the program you need to follow these steps:
